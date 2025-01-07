@@ -1,4 +1,4 @@
-# Biomedical-NER-with-LSTM-GRU-and-Transformers
+# Biomedical NER with LSTM,GRU and Transformers
 
 ## Dataset Description
 This dataset consists of abstracts and full-text biomedical papers annotated for Named Entity Recognition (NER) tasks.
