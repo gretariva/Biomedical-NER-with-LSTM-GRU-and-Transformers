@@ -13,21 +13,34 @@ Format: IOB2
 
 ## Columns and Descriptions
 id: A string feature
+
 start: Begin character position
+
 end chunk_tags: End character position
+
 ner_tags: A list of classification labels
 
 ## Labels 
 Anatomical_system
+
 Cell
+
 Cellular_component
+
 Developing_anatomical_structure
+
 Immaterial_anatomical_entity
+
 Multi-tissue_structure
+
 Organ
+
 Organism_subdivision
+
 Organism_substance
+
 Pathological_formation
+
 Tissue
 
 ## Project Overview
@@ -42,8 +55,11 @@ The team is tasked with building a text processing pipeline to perform token-lev
 
 ## Team members
 Ilaria Tangorre
+
 Greta Riva 
+
 Matteo Delle Cave
+
 Lorenzo Presti
 
 
